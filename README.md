@@ -1,9 +1,9 @@
-<h1 align="center">Hey 👋, my mane is Abner Maximiliano Lecona</h1>
-<h3 align="center">I'm a determined and pleasant student</h3>
+<h1 align="center">Hello, I'm Abner Maximiliano Lecona</h1>
+<h3 align="center">I am a motivated and adaptable student with a strong passion for programming and web development.</h3>
 
-- 🌱 I’m currently learning **courses, software proyects y scolar classes**
+- I am actively seeking opportunities in **software development and web design.**
 
-- 💬 Ask me about **python, c++, html and css**
+- 🚀 Currently sharpening my skills in: **python, c++, html and css**
 
 - 📫 How to reach me **abner_lecona@outlook.com**
 
