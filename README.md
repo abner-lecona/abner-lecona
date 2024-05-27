@@ -6,7 +6,7 @@ I am actively seeking opportunities in **software development and web design.**
 🚀 Currently sharpening my skills in: 
 - TypeScript
 - JavaScript
-- and HTML
+- HTML
 
 📫 How to reach me **abner_lecona@outlook.com**
 
