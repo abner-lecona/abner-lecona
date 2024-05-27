@@ -8,7 +8,7 @@ I am actively seeking opportunities in **software development and web design.**
 - JavaScript
 - and HTML
 
-- 📫 How to reach me **abner_lecona@outlook.com**
+📫 How to reach me **abner_lecona@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
